@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: www.linkedin.com/in/roji-thapa-31151b329
-image: /assets/images/me.jpg
+image:assets/images/my-image.png
 ---
