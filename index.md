@@ -11,6 +11,6 @@ quick_facts:
   - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: www.linkedin.com/in/roji-thapa-31151b329
+linkedin: https://www.linkedin.com/in/roji-thapa-31151b329/
 image:assets/images/my-image.png
 ---
