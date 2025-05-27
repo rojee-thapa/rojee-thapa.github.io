@@ -7,7 +7,7 @@ motto: "Go with the flow."
 
 quick_facts:
   - "🎓 Senior,Computer Science at Morrgan State University"
-  - "🔬 Research: AI $ Virtual Reality"
+  - "🔬 Research: AI & Virtual Reality"
   - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
