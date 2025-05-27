@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Roji Thapa
-description:Roji Thapa CEAMLS SAIRI Summer 2025 Research Website
+description: Roji Thapa CEAMLS SAIRI Summer 2025 Research Website
 
 motto: "Go with the flow."
 
