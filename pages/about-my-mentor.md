@@ -19,7 +19,7 @@ faculty_mentor:
   image: /assets/images/faculty-mentor.jpg
   website: https://facultymentor.example.com
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
+    Dr. Olaniyi Iyiola is a pioneering figure in the field of mathematics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
     
     A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
 
