@@ -3,34 +3,35 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: Applying Machine Learning to Predict Diseases Using Real Medical Data
+project_title: "Developing Cutting-Edge Algorithmic Approaches to Refine Machine
+Learning Systems for Complex Nonlinear Optimization in Biomedical
+Research."
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
-
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
-
+  There is a need to improve the accuracy and efficiency of disease prediction models using real-world medical data.
+  
 approach: |
-  The project follows a four-phase pipeline:
+  The project follows following approach:
 
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
+  - We will develop and implement a custom algorithm to optimize model output weights as part of a machine learning system.
+  - The project includes working with real medical data and applying tools such as Python, MATLAB, SPSS, and R to build models, handle data, and evaluate performance.
+  
 
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  By the end of the program, I will gain practical skills in data handling, model building, and performance evaluation. The optimized algorithm is expected to enhance prediction accuracy and demonstrate how AI can support early disease detection and improve healthcare outcomes.
+
+.
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
 grad_mentor:
-  name: Jamal Carter
+  name: Amara Eze
   linkedin: https://www.linkedin.com/in/jamal-carter
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
+  name: Dr. Olaniyi Iyiola
   linkedin: https://www.linkedin.com/in/dr-elijah-freeman
 ---
