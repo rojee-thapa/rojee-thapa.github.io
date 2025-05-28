@@ -23,7 +23,7 @@ approach: |
 outcome: |
   By the end of the program, I will gain practical skills in data handling, model building, and performance evaluation. The optimized algorithm is expected to enhance prediction accuracy and demonstrate how AI can support early disease detection and improve healthcare outcomes.
 
-.
+
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
