@@ -4,27 +4,26 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
-  image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  name: Roji Thapa
+  role: Senior, Computer Science Major at Morgan State University
+  image: assets/images/my-image.png
+  linkedin: https://www.linkedin.com/in/roji-thapa-31151b329/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a senior studying Computer Science at Morgan State University in Baltimore, Maryland. I expect to graduate in 2026.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+    My major focuses on understanding how computers work, from software development and algorithms to data structures and artificial intelligence.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
-
+    When I’m not coding or studying, I enjoy reading books and watching movies to relax.
   hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    - icon: 📖📚
+      title: Reading Books
+      description: I like reading books in my free time. It 
+    - icon: 🎬🍿
+      title: Watching movies or series
+      description: I enjoy watching movies or series whenever I get the chance.
+    - icon: ✈️
+      title: Travelling
+      description: I love going to new place and exploring.
 
   gallery:
     - image: /assets/images/me-guitar.png
