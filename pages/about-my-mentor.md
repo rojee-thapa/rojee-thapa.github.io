@@ -4,18 +4,18 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
+  name: Amara Eze
+  title: PhD Student, Industrial and Computational Mathematics(ICM)
   image: /assets/images/graduate-student-mentor.jpg
   website: https://gradmentor.example.com
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Amara Eze is a PhD candidate in Industrial and Computational Mathematics. Her research is centered on developing effective iterative algorithms to address nonlinear optimization issues, especially in the realms of healthcare and image processing within machine learning. One of her ongoing projects is focused on creating an algorithm to enhance disease prediction.
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    She has also sharedher research findings at numerous conferences both nationally and internationally, including in Paris, France. She is well-versed in various machine learning techniques such as ELM, SVM,and kNN.
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
+  name: Dr. Olaniyi Iyiola
+  title: Professor Iyiola, Morgan State University
   image: /assets/images/faculty-mentor.jpg
   website: https://facultymentor.example.com
   bio: |
