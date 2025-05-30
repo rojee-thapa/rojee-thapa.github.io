@@ -29,9 +29,9 @@ final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d
 
 grad_mentor:
   name: Amara Eze
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  linkedin: https://www.linkedin.com/in/amara-eze-569b59259/
 
 faculty_mentor:
   name: Dr. Olaniyi Iyiola
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  linkedin: https://www.linkedin.com/in/olaniyi-iyiola-phd-math-mba-business-analytics-89073455/
 ---
