@@ -26,6 +26,7 @@ about:
       description: I love going to new place and exploring.
 
   gallery:
-    - 
+    - image: /assests/image/about_me1.jpg
+      caption: Enjoying snow 2024!
     - 
 ---
